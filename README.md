@@ -153,7 +153,7 @@ This project was completed collaboratively by:
 - **Devashish Johareya**
 - **Payal Borse**
 
-We worked together on the project as a practical learning exercise involving Python, SQL, and Power BI. Update the second name with your friend's correct full name before publishing.
+We worked together on the project as a practical learning exercise involving Python, SQL, and Power BI. 
 
 ## 📚 Learning Outcomes
 
