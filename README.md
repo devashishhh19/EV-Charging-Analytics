@@ -4,7 +4,7 @@
 
 ### Data Analysis with Python, SQL & Power BI
 
-**Collaborative project by Devashish Johareya and [Friend's Full Name]**
+**Collaborative project by Devashish Johareya and Payal Borse**
 
 An end-to-end practice project exploring EV charging patterns, charging demand, infrastructure, user behavior, energy consumption, and charging costs.
 
@@ -45,19 +45,19 @@ This is a collaborative hands-on learning project completed by two team members.
 
 Includes headline KPIs, sessions by charger type, charging demand by time of day, sessions by location, and report filters.
 
-![EV Charging Performance Overview](screenshots/ev_charging_overview.png)
+![EV Charging Performance Overview](./Overview.png)
 
 ### 2. EV Charging Behavior Analysis
 
 Explores charging demand by time and day, sessions by vehicle model, user type and charger type, and energy consumption by user type.
 
-![EV Charging Behavior Analysis](screenshots/ev_charging_behavior_analysis.png)
+![EV Charging Behavior Analysis](./Charging%20Behavior%20Analysis.png)
 
 ### 3. Cost and Energy Analysis
 
 Includes average charging cost by charger type, energy consumption by time of day, charging duration versus energy consumption, and energy consumption versus charging cost.
 
-![EV Cost and Energy Analysis](screenshots/ev_cost_energy_analysis.png)
+![EV Cost and Energy Analysis](./Cost%20and%20Energy%20Analysis.png)
 
 ## 🔍 Key Analysis
 
