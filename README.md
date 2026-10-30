@@ -163,7 +163,3 @@ We worked together on the project as a practical learning exercise involving Pyt
 - Explored charging behavior across vehicles, charger types, users, locations, and time periods.
 - Built and documented a multi-page Power BI dashboard.
 - Practiced collaborative project work and communicating analysis through visualizations.
-
-## ⚠️ Data and Usage Note
-
-This repository is intended for educational and portfolio purposes. The dataset itself was not supplied with the uploaded PBIX, notebook, and SQL files. Before making the repository public, check the dataset license and any course or source terms. Do not upload data or course materials unless redistribution is allowed.
